@@ -14,7 +14,7 @@ _(Indian Institute of Technology, Roorkee)_
 -Evolutionary Algorithms (CGPA 10/10)\
 -Medical Imaging         (CGPA 10/10)\
 **Research Area:** Computer Vision, Deep Learning\
-**Supervisor:** Prof. R. Balasubramanian\
+**Supervisor:** Prof. [Balasubramanian Raman](https://balarsgroup.github.io/)\
 
 **Int. M.Tech. (Computer Science), 2019**\
 _Dayalbagh Educational Institute, Agra_\
@@ -30,3 +30,10 @@ _Dayalbagh Educational Institute, Agra_\
 _Dayalbagh Educational Institute, Agra_\
 **CGPA**: 8.45\
 
+## Awards and Achievements
+-Topper talk as an interview for strategy
+-NTA NET JRF (99.88% ile), 2019
+-GATE qualified, 2018
+-NET (June, Dec) qualified, 2018
+-Awarded third in National Science Exhibition, 2013
+-Ranked third in city, National Science Olympiad, 2011
