@@ -6,13 +6,13 @@ I am a Ph.D. student in Computer Science and Engineering department at Indian In
 
 ## Education
 
-**Ph.D.(Computer Science)**\
+**Ph.D.* (Computer Science)**\
 _Indian Institute of Technology, Roorkee_
 
 **Joining Date:** Dec, 2019\
-**Course Work Details:**\
--Evolutionary Algorithms (CGPA 10/10)\
--Medical Imaging         (CGPA 10/10)\
+**Course Work Details*:**\
+    * Evolutionary Algorithms (CGPA 10/10)\
+    * Medical Imaging         (CGPA 10/10)\
 **Research Area:** Computer Vision, Deep Learning\
 **Supervisor:** Prof. [Balasubramanian Raman](https://balarsgroup.github.io/)\
 
