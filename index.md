@@ -1,9 +1,10 @@
+<p align="left">
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="200" height="240" />
 
 ## About
 
 I am a Ph.D. student in Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined PhD in Dec, 2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
-
+</p>
 ## Education
 
 **Ph.D.* (Computer Science)**\
@@ -35,7 +36,7 @@ _Dayalbagh Educational Institute, Agra_\
    - GATE qualified, 2018
    - NET (June, Dec) qualified, 2018
    - Awarded third in National Science Exhibition, 2013
-   - Ranked third in city, National Science Olympiad, 2011
+   - Third rank in city, National Science Olympiad, 2011
  
 ## Research Interests
    - Computer Vision 
