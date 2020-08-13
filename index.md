@@ -1,11 +1,11 @@
 
   <div class="container">
     <div class="topnav-right">
-      <a href="#about"><pre>About</pre></a>
-      <a href="#education"><pre>  Education</pre></a>
-      <a href="#achievements"><pre>  Achievements</pre></a>
-      <a href="#research_interests"><pre>  Research_Interests</pre></a>
-      <a href="#contact"><pre>  Contact</pre></a>
+      <a href="#about">About</a>
+      <a href="#education"> &nbsp Education</a>
+      <a href="#achievements">Achievements</a>
+      <a href="#research_interests">Research_Interests</a>
+      <a href="#contact">Contact</a>
     </div>
   </div>
 
