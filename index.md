@@ -1,16 +1,15 @@
-
+<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="200" height="240" />
 
 ## About
 
-<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="200" height="240" />I am a Ph.D. student in Computer Science and                                                                                                                       Engineering department at Indian Institute                                                                                                                         of technology, Roorkee. I have joined PhD in                                                                                                                       Dec,2019 under supervision of Prof.                                                                                                                               [Balasubramanian Raman]                                                                                                                                           (https://balarsgroup.github.io/). Before                                                                                                                           joining Ph.D., I have completed my                                                                                                                                 bachelor's and master's degree from                                                                                                                               [Dayalbagh Educational Institute, Agra]                                                                                                                           (https://www.dei.ac.in/dei/).  
+I am a Ph.D. student in Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined PhD in Dec,2019 under supervision of Prof.[Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra] (https://www.dei.ac.in/dei/).  
 
 ## Education
 
 **Ph.D.* (Computer Science)**\
 _Indian Institute of Technology, Roorkee_
-
 **Joining Date:** Dec, 2019\
-**Course Work Details*:** \
+**Course Work Details:** 
     - Evolutionary Algorithms (CGPA 10/10) \
     - Medical Imaging         (CGPA 10/10) \
 **Research Area:** Computer Vision, Deep Learning \
