@@ -1,4 +1,4 @@
-<div class="bg-img">
+
   <div class="container">
     <div class="topnav-right">
       <a href="#about">About</a>
@@ -8,7 +8,7 @@
       <a href="#contact">Contact</a>
     </div>
   </div>
-</div>
+
 
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="200" height="240" />
 
