@@ -1,12 +1,10 @@
 
   <div class="container">
-    <div class="topnav-right">
       <a href="#about">About</a>
       <a href="#education">Education</a>
       <a href="#achievements">Achievements</a>
       <a href="#research_interests">Research_Interests</a>
       <a href="#contact">Contact</a>
-    </div>
   </div>
 
 
