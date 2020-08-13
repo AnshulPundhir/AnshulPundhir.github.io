@@ -16,15 +16,17 @@ _(Indian Institute of Technology, Roorkee)_
 **Research Area:** Computer Vision, Deep Learning\
 **Supervisor:** Prof. R. Balasubramanian\
 
-**Int. M.Tech. (Computer Science),2019**\
-Dayalbagh Educational Institute, Agra
-CGPA: 8.51
+**Int. M.Tech. (Computer Science), 2019**\
+_Dayalbagh Educational Institute, Agra_\
+**Supervisor:** [Dr. R.S. Pavithr](https://www.dei.ac.in/dei/science/index.php/phy-faculty/90-physicsfaculty/159-mr-r-s-pavithr)\
+**CGPA**: 8.51\
 
-**Int. M.Sc. (Computer Science),2018**\
-_Dayalbagh Educational Institute, Agra_
-CGPA: 8.30
+**Int. M.Sc. (Computer Science), 2018**\
+_Dayalbagh Educational Institute, Agra_\
+**Supervisor:** [Dr. R.S. Pavithr](https://www.dei.ac.in/dei/science/index.php/phy-faculty/90-physicsfaculty/159-mr-r-s-pavithr)\
+**CGPA**: 8.30\
 
-**B.Sc. (Computer Science),2017**\
-_Dayalbagh Educational Institute, Agra_
-CGPA: 8.45
+**B.Sc. (Computer Science), 2017**\
+_Dayalbagh Educational Institute, Agra_\
+**CGPA**: 8.45\
 
