@@ -10,7 +10,7 @@
 _Indian Institute of Technology, Roorkee_
 
 **Joining Date:** Dec, 2019\
-**Course Work Details*:**
+**Course Work Details*:** \
     - Evolutionary Algorithms (CGPA 10/10) \
     - Medical Imaging         (CGPA 10/10) \
 **Research Area:** Computer Vision, Deep Learning \
