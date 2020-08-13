@@ -1,6 +1,6 @@
 <div class="bg-img">
   <div class="container">
-    <div class="topnav">
+    <div class="topnav-centered">
       <a href="#about">About &nbsp &nbsp</a>
       <a href="#education">Education &nbsp &nbsp</a>
       <a href="#achievements">Achievements &nbsp &nbsp</a>
