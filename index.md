@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbalarsgroup.github.io%2F&psig=AOvVaw3hzU4Ot5Twf0c_6LQXNR8C&ust=1597413247185000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCQ952qmOsCFQAAAAAdAAAAABAD)
+![](https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg)
 ## About
 I am a Ph.D. student in Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined PhD in Dec,2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
 
