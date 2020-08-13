@@ -7,7 +7,7 @@ I am a Ph.D. student in Computer Science and Engineering department at Indian In
 ## Education
 
 **Ph.D.(Computer Science)**\
-_(Indian Institute of Technology, Roorkee)_
+_Indian Institute of Technology, Roorkee_
 
 **Joining Date:** Dec, 2019\
 **Course Work Details:**\
@@ -31,9 +31,9 @@ _Dayalbagh Educational Institute, Agra_\
 **CGPA**: 8.45\
 
 ## Awards and Achievements
--Topper talk as an interview for strategy
--NTA NET JRF (99.88% ile), 2019
--GATE qualified, 2018
--NET (June, Dec) qualified, 2018
--Awarded third in National Science Exhibition, 2013
--Ranked third in city, National Science Olympiad, 2011
+-Gave a topper talk on chamolile tea with toppers for JRF strategy[]**(https://youtu.be/Uv5tegbd3Vs)**\
+-NTA NET JRF (99.88% ile), 2019\
+-GATE qualified, 2018\
+-NET (June, Dec) qualified, 2018\
+-Awarded third in National Science Exhibition, 2013\
+-Ranked third in city, National Science Olympiad, 2011\
