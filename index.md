@@ -11,13 +11,13 @@ _Indian Institute of Technology, Roorkee_
 
 **Joining Date:** Dec, 2019\
 **Course Work Details*:**
-    - Evolutionary Algorithms (CGPA 10/10)
-    - Medical Imaging         (CGPA 10/10)
-**Research Area:** Computer Vision, Deep Learning
+    - Evolutionary Algorithms (CGPA 10/10) \
+    - Medical Imaging         (CGPA 10/10) \
+**Research Area:** Computer Vision, Deep Learning \
 **Supervisor:** Prof. [Balasubramanian Raman](https://balarsgroup.github.io/)
 
 **Int. M.Tech. (Computer Science), 2019**\
-_Dayalbagh Educational Institute, Agra_
+_Dayalbagh Educational Institute, Agra_ \
 **Supervisor:** [Dr. R.S. Pavithr](https://www.dei.ac.in/dei/science/index.php/phy-faculty/90-physicsfaculty/159-mr-r-s-pavithr) \
 **CGPA**: 8.51
 
