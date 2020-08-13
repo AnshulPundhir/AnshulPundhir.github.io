@@ -31,7 +31,7 @@ _Dayalbagh Educational Institute, Agra_\
 **CGPA**: 8.45\
 
 ## Awards and Achievements
--Gave a topper talk on chamolile tea with toppers for JRF strategy [link](https://youtu.be/Uv5tegbd3Vs) \
+-Gave a topper talk on chamolile tea with toppers for JRF strategy (https://youtu.be/Uv5tegbd3Vs) \
 -NTA NET JRF (99.88% ile), 2019\
 -GATE qualified, 2018\
 -NET (June, Dec) qualified, 2018\
