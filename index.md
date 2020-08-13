@@ -3,8 +3,8 @@
     <div class="topnav">
       <a href="#about">About</a>
       <a href="#education">Education</a>
-      <a href="#awards_and_achievements">Awards and Achievements</a>
-      <a href="#research_interests">Research Interests</a>
+      <a href="#achievements">Achievements</a>
+      <a href="#research_interests">ResearchInterests</a>
       <a href="#contact">Contact</a>
     </div>
   </div>
@@ -41,7 +41,7 @@ _Dayalbagh Educational Institute, Agra_\
 _Dayalbagh Educational Institute, Agra_\
 **CGPA**: 8.45
 
-## Awards and Achievements
+## Achievements
    - Gave a topper talk on chamomile tea with toppers for JRF strategy [(Link)](https://youtu.be/Uv5tegbd3Vs) 
    - NTA NET JRF (99.88% ile), 2019
    - GATE qualified, 2018
