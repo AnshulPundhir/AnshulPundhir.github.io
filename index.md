@@ -1,3 +1,13 @@
+<div class="bg-img">
+  <div class="container">
+    <div class="topnav">
+      <a href="#home">Home</a>
+      <a href="#news">News</a>
+      <a href="#contact">Contact</a>
+      <a href="#about">About</a>
+    </div>
+  </div>
+</div>
 
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="200" height="240" />
 
