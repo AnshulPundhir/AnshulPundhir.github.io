@@ -1,15 +1,12 @@
 <div class="topnav">
   <div class="topnav-right">
-      <a href="#about">About</a>
+      <a href="#_____________________about">About</a>
       <a href="#education">Education</a>
       <a href="#achievements">Achievements</a>
       <a href="#research_interests">Research_Interests</a>
       <a href="#contact">Contact</a>
   </div>
 </div>
-.topnav-right {
-  float: right;
-}
 
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="200" height="240" />
 
