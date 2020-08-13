@@ -1,25 +1,17 @@
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbalarsgroup.github.io%2F&psig=AOvVaw3hzU4Ot5Twf0c_6LQXNR8C&ust=1597413247185000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCQ952qmOsCFQAAAAAdAAAAABAD)
 ## About
+I am a Ph.D. student in Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined PhD in Dec,2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
 
-You can use the [editor on GitHub](https://github.com/AnshulPundhir/anshul.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
+**Ph.D.(Computer Science)- ongoing**
+_(Indian Institute of Technology, Roorkee)_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+**Joining Date:** Dec, 2019
+**Course Work Details:**
+-Evolutionary Algorithms (CGPA 10/10)
+-Medical Imaging         (CGPA 10/10)
+**Research Area:** Computer Vision, Deep Learning.
+**Supervisor:** Prof. R. Balasubramanian
 
 **Bold** and _Italic_ and `Code` text
 
