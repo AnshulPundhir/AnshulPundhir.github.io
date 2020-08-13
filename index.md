@@ -31,17 +31,17 @@ _Dayalbagh Educational Institute, Agra_\
 **CGPA**: 8.45
 
 ## Awards and Achievements
-   -Gave a topper talk on chamolile tea with toppers for JRF strategy [Link](https://youtu.be/Uv5tegbd3Vs) \
-   -NTA NET JRF (99.88% ile), 2019\
-   -GATE qualified, 2018\
-   -NET (June, Dec) qualified, 2018\
-   -Awarded third in National Science Exhibition, 2013\
-   -Ranked third in city, National Science Olympiad, 2011
+   - Gave a topper talk on chamomile tea with toppers for JRF strategy [(Link)](https://youtu.be/Uv5tegbd3Vs) 
+   - NTA NET JRF (99.88% ile), 2019
+   - GATE qualified, 2018
+   - NET (June, Dec) qualified, 2018
+   - Awarded third in National Science Exhibition, 2013
+   - Ranked third in city, National Science Olympiad, 2011
  
 ## Research Interests
-   - Computer Vision \
-   - Machine learning \ 
-   - Deep Learning \
+   - Computer Vision 
+   - Machine learning  
+   - Deep Learning 
    
 ##   Contact
 Anshul Pundhir
