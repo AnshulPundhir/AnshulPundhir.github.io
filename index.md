@@ -3,8 +3,8 @@
     <div class="topnav">
       <a href="#about">About</a>
       <a href="#education">Education</a>
-      <a href="#awards and achievements">Awards and Achievements</a>
-      <a href="#research interests">Research Interests</a>
+      <a href="#awards_and_achievements">Awards and Achievements</a>
+      <a href="#research_interests">Research Interests</a>
       <a href="#contact">Contact</a>
     </div>
   </div>
