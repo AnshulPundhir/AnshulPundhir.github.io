@@ -1,10 +1,11 @@
 <div class="bg-img">
   <div class="container">
     <div class="topnav">
-      <a href="#home">Home</a>
-      <a href="#news">News</a>
-      <a href="#contact">Contact</a>
-      <a href="#about">About</a>
+      <a href="#About">About</a>
+      <a href="#Education">Education</a>
+      <a href="#Awards and Achievements">Awards and Achievements</a>
+      <a href="#Research Interests">Research Interests</a>
+      <a href="#Contact">Contact</a>
     </div>
   </div>
 </div>
