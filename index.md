@@ -1,7 +1,7 @@
 <div class="bg-img">
   <div class="container">
-    <div class="topnav-centered">
-      <a href="#about">About    </a>
+    <div class="topnav-right">
+      <a href="#about">About</a>
       <a href="#education">Education</a>
       <a href="#achievements">Achievements</a>
       <a href="#research_interests">Research_Interests</a>
