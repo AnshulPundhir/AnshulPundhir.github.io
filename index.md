@@ -1,8 +1,8 @@
-<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="230" height="270" />
+
 
 ## About
 
-I am a Ph.D. student in Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined PhD in Dec,2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
+<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="230" height="270" />I am a Ph.D. student in Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined PhD in Dec,2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
 
 ## Education
 
@@ -40,5 +40,14 @@ _Dayalbagh Educational Institute, Agra_\
  
 ## Research Interests
    - Computer Vision \
-   - Machine learning and Deep Learning \
+   - Machine learning \ 
+   - Deep Learning \
+   
+##   Contact
+Anshul Pundhir
+Department of Computer Science and Engineering
+Machine Vision Lab
+Indian Institute of Technology, Roorkee
+e-mail: anshul_p [at] cs [dot] iitr [dot] ac [dot] in
+
    
