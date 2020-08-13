@@ -5,7 +5,7 @@
       <a href="#education">Education</a>
       <a href="#achievements">Achievements</a>
       <a href="#research_interests">Research_Interests</a>
-      <a href=  &nbsp > </a>
+      <a href=   > </a>
       <a href="#contact">Contact</a>
     </div>
   </div>
