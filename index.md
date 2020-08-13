@@ -1,6 +1,6 @@
 <div class="topnav">
   <div class="topnav-right">
-      <a href="#_____________________about">About</a>
+      <a href="#about">About</a>
       <a href="#education">Education</a>
       <a href="#achievements">Achievements</a>
       <a href="#research_interests">Research_Interests</a>
