@@ -44,10 +44,10 @@ _Dayalbagh Educational Institute, Agra_\
    - Deep Learning 
    
 ##   Contact
-Anshul Pundhir
-Department of Computer Science and Engineering
-Machine Vision Lab
-Indian Institute of Technology, Roorkee
+Anshul Pundhir \
+Department of Computer Science and Engineering\
+Machine Vision Lab\
+Indian Institute of Technology, Roorkee\
 e-mail: anshul_p [at] cs [dot] iitr [dot] ac [dot] in
 
    
