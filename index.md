@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://images.app.goo.gl/f5nQTZrL6eQL8yjYA');
+  background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/bright-blue-tech-shapes-background-video-animation-hd-1920x1080_vljhd_nhg__M0000.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
