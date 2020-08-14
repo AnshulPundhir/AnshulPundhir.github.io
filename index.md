@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://ak.picdn.net/shutterstock/videos/2548478/thumb/1.jpg');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeMwXwAwtBOfG9lj5k_Eq09darHiQzqsiyCg&usqp=CAUhttps://ak.picdn.net/shutterstock/videos/2548478/thumb/1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
