@@ -8,7 +8,10 @@
   </div>
 </div>
 <div>
-   <a href="#Equipment" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini">Equipment</a>
+   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini">About</a>
+  <a href="#education" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Education</a>
+  <a href="#achievements" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Achievements</a>
+  <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Contact</a>
          <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Contact</a>  
 </div>
 
