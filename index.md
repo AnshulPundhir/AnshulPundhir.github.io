@@ -7,6 +7,10 @@
       <a href="#contact">_____Contact</a>
   </div>
 </div>
+<div>
+   <a href="#Equipment" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini">Equipment</a>
+         <a href="#Model" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Model</a>  
+</div>
 
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="200" height="240" />
 
