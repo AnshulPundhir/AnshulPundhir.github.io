@@ -1,9 +1,14 @@
 <div>
-   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">About</a>
+  
+  <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">About</a>
   <a href="#education" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Education</a>
   <a href="#achievements" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Achievements</a>
   <a href="#research_interests" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Research_Interests</a>
-         <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Contact</a>  
+  <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Contact</a>
+  
+  
+  
+  
 </div>
 
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="200" height="240" />
