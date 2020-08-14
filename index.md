@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('hhttps://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_m2ONgWDd5u19jpLFyxhSxrZRRikcMVNTqg&usqp=CAU');
+  background-image: url('https://st2.depositphotos.com/1605581/7029/i/950/depositphotos_70297737-stock-photo-abstract-white-background-gray-color.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
