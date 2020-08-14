@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/bright-blue-tech-shapes-background-video-animation-hd-1920x1080_vljhd_nhg__M0000.jpg');
+  background-image: url('https://www.lefthudson.com/wp-content/uploads/2019/11/light-colours-wallpapers-best-of-light-blue-backgrounds-hd-desktop-wallpapers-high-definition-desktop-background-this-week-of-light-colours-wallpapers.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
