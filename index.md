@@ -4,7 +4,7 @@
       <a href="#education">_____Education_____</a>
       <a href="#achievements">_____Achievements_____</a>
       <a href="#research_interests">_____Research_Interests_____</a>
-      <a href="#contact">&nbsp     Contact</a>
+      <a href="#contact">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp      Contact</a>
   </div>
 </div>
 
