@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://s3.ap-south-1.amazonaws.com/hansindia-bucket/iit_5334.jpg');
+  background-image: url('https://www.iitr.ac.in/16see/img/01.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
