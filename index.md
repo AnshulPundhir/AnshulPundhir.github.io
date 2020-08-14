@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://etimg.etb2bimg.com/photo/75313748.cms');
+  background-image: url('https://ak.picdn.net/shutterstock/videos/2548478/thumb/1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
