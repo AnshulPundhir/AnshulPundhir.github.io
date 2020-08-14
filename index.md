@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://cb2.scene7.com/is/image/CB2/WashGreyRug8x10S19');
+  background-image: url('https://previews.123rf.com/images/yemelyanov/yemelyanov1802/yemelyanov180200047/95058913-wallpaper-texture-white-color-paper-background-for-design-monochrome-pattern-.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
