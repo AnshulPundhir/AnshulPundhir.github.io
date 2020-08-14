@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://st2.depositphotos.com/1605581/7029/i/950/depositphotos_70297737-stock-photo-abstract-white-background-gray-color.jpg');
+  background-image: url('https://img.freepik.com/free-vector/abstract-flying-polygon-hexagon-white-background-light-shadow_51543-825.jpg?size=626&ext=jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
