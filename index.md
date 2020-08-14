@@ -1,5 +1,13 @@
-<div style="background-image:url('https://static.businessworld.in/article/article_extra_large_image/1581924703_0RAi28_IIT_Roorkee_Administrative_Building_.jpg')">
-</div>
+
+
+<style>
+body {
+  background-image: url("'https://static.businessworld.in/article/article_extra_large_image/1581924703_0RAi28_IIT_Roorkee_Administrative_Building_.jpg'");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+}
+</style>
+
 <div>
   
   <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Contact</pre></a>
