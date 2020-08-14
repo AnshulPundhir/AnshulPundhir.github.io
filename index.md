@@ -10,7 +10,7 @@
   
   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
   
-  <a href="AnshulPundhir/anshulpundhir.github.io/Anshul_Pundhir_Resume.pdf" target="Anshul_Pundhir_Resume.pdf">Resume</a>
+  <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/Anshul_Pundhir_Resume.pdf target="Anshul_Pundhir_Resume.pdf">RESUME</a>
   
   
   
