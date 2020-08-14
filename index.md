@@ -2,7 +2,7 @@
   
   <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Contact</pre></a>
   
-  <a href="#research_interests" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Research Interests</pre></a>
+  <a href="#research" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Research Interests</pre></a>
   
   <a href="#achievements" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Achievements</pre></a>
   
@@ -55,7 +55,7 @@ _Dayalbagh Educational Institute, Agra_\
    - Awarded third in National Science Exhibition, 2013
    - Third rank in city, National Science Olympiad, 2011
  
-## Research_Interests
+## Research Interests
    - Computer Vision 
    - Machine learning  
    - Deep Learning 
