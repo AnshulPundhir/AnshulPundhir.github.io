@@ -1,14 +1,14 @@
 <div>
   
-  <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">Contact</a>
+  <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Contact</pre></a>
   
-  <a href="#research_interests" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>    Research_Interests</pre></a>
+  <a href="#research_interests" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre> Research_Interests</pre></a>
   
-  <a href="#achievements" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"> <pre>   Achievements</pre></a>
+  <a href="#achievements" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Achievements</pre></a>
   
-  <a href="#education" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"> <pre>  Education</pre></a>
+  <a href="#education" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Education</pre></a>
   
-  <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right">About</a>
+  <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
   
   
   
