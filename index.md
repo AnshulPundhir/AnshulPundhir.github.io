@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://www.lefthudson.com/wp-content/uploads/2019/11/light-colours-wallpapers-best-of-light-blue-backgrounds-hd-desktop-wallpapers-high-definition-desktop-background-this-week-of-light-colours-wallpapers.jpg');
+  background-image: url('https://wtstutor.co.za/wp-content/uploads/2017/11/497337261-light-color-background-images-for-website-top-hd-images-for-free-light-color-background-images-for-website-1024x683.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
