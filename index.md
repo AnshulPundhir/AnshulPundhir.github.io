@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://img.freepik.com/free-vector/abstract-flying-polygon-hexagon-white-background-light-shadow_51543-825.jpg?size=626&ext=jpg');
+  background-image: url('https://image.freepik.com/free-vector/abstract-paper-hexagon-white-background_51543-213.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
