@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://wtstutor.co.za/wp-content/uploads/2017/11/497337261-light-color-background-images-for-website-top-hd-images-for-free-light-color-background-images-for-website-1024x683.jpg');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDxCiPcEf78tLZ9bmE-GH83ww_HlUtrG1gA&usqp=CAU');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
