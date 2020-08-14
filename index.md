@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://media.istockphoto.com/photos/white-studio-background-picture-id1040250650?b=1&k=6&m=1040250650&s=170667a&w=0&h=kV2o7n3pefhAitq9YiiTrxQotQEfJ98UGZ8fLEl1iCA=');
+  background-image: url('https://cb2.scene7.com/is/image/CB2/WashGreyRug8x10S19');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
