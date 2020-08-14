@@ -1,3 +1,5 @@
+<div style="background-image:url('https://static.businessworld.in/article/article_extra_large_image/1581924703_0RAi28_IIT_Roorkee_Administrative_Building_.jpg');padding:5px;width:150px;height:200px;border:1px solid black;">
+</div>
 <div>
   
   <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Contact</pre></a>
@@ -10,7 +12,7 @@
   
   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
   
-  <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/Anshul_Pundhir_Resume.pdf" target="Anshul_Pundhir_Resume.pdf" style="float:right"><pre>RESUME</pre></a>
+  <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/Anshul_Pundhir_Resume.pdf" target="Anshul_Pundhir_Resume.pdf" style="float:right"><pre>Resume</pre></a>
   
   
   
