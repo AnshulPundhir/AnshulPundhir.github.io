@@ -1,12 +1,3 @@
-<div class="topnav">
-  <div class="topnav-right">
-      <a href="#about">About_____</a>
-      <a href="#education">_____Education_____</a>
-      <a href="#achievements">_____Achievements_____</a>
-      <a href="#research_interests">_____Research_Interests_____</a>
-      <a href="#contact">_____Contact</a>
-  </div>
-</div>
 <div>
    <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini">About</a>
   <a href="#education" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:left">Education</a>
