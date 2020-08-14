@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://www.iitr.ac.in/16see/img/01.jpg');
+  background-image: url('https://etimg.etb2bimg.com/photo/75313748.cms');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
