@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://images.hdqwalls.com/download/andromeda-galaxy-way-ik-1366x768.jpg');
+  background-image: url('https://images.app.goo.gl/f5nQTZrL6eQL8yjYA');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
