@@ -55,7 +55,7 @@ _Dayalbagh Educational Institute, Agra_\
    - Awarded third in National Science Exhibition, 2013
    - Third rank in city, National Science Olympiad, 2011
  
-## Research Interests
+## Research_Interests
    - Computer Vision 
    - Machine learning  
    - Deep Learning 
