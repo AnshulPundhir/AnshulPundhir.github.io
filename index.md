@@ -15,7 +15,7 @@ body {
   <a href="#achievements" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Achievements</pre></a>
   
   <a href="#education" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Education</pre></a>
-  
+  <a href="#Experience" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Experience</pre></a>
   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
   
   <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/Anshul_Pundhir_Resume.pdf" target="Anshul_Pundhir_Resume.pdf" style="float:right"><pre>Resume</pre></a>
@@ -66,7 +66,14 @@ _Dayalbagh Educational Institute, Agra_\
 ## Research_Interests
    - Computer Vision 
    - Machine learning  
-   - Deep Learning 
+   - Deep Learning
+
+## Experience
+   - Intern at IISc Banglore (April-till now) 
+   - Communicated a paper in *Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)*, 2021
+   - Attended "The Workshop on Computer Vision and Image Processing (WCVIP)", IIT Roorkee, Uttarakhand, 14-24 Dec 2020 (Virtual) 
+   - Attended "2020 IEEE International Conference on Image Processing (ICIP)", Abu Dhabi, UAE, 25-28 Oct 2020 (Virtual)
+   - Organized a training session on "Dimensionality Reduction Algorithms" during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
    
 ##   Contact
 Anshul Pundhir \
