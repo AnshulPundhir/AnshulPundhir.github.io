@@ -15,7 +15,9 @@ body {
   <a href="#achievements" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Achievements</pre></a>
   
   <a href="#education" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Education</pre></a>
-  <a href="#Experience" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Experience</pre></a>
+  
+  <a href="#experience" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Experience</pre></a>
+  
   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
   
   <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/Anshul_Pundhir_Resume.pdf" target="Anshul_Pundhir_Resume.pdf" style="float:right"><pre>Resume</pre></a>
