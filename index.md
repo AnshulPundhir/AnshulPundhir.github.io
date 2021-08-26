@@ -37,10 +37,12 @@ I am a Ph.D. student in the Computer Science and Engineering department at India
 **Ph.D.* (Computer Science)**\
 _Indian Institute of Technology, Roorkee_\
 **Joining Date:** Dec, 2019\
-**Course Work Details:** \
-    - Evolutionary Algorithms (CGPA 10/10) \
-    - Medical Imaging         (CGPA 10/10) \
-**Research Area:** Computer Vision, Deep Learning \
+**Course Work Details: (CGPA: 9.26)** \
+    - Evolutionary Algorithms  \
+    - Medical Imaging          \
+    - Research Methodology     \
+    - Soft Computing           \
+**Research Area:** Medical Image Analysis \
 **Supervisor:** [Prof. Balasubramanian Raman](https://balarsgroup.github.io/)
 
 **Int. M.Tech. (Computer Science), 2019**\
@@ -66,6 +68,7 @@ _Dayalbagh Educational Institute, Agra_\
    - Third rank in city, National Science Olympiad, 2011
  
 ## Research_Interests
+   - Medical Imaging
    - Computer Vision 
    - Machine learning  
    - Deep Learning
@@ -73,9 +76,9 @@ _Dayalbagh Educational Institute, Agra_\
 ## Experience
    - Intern at IISc Banglore (April-till now) 
    - Communicated a paper in *Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)*, 2021
-   - Attended "The Workshop on Computer Vision and Image Processing (WCVIP)", IIT Roorkee, Uttarakhand, 14-24 Dec 2020 (Virtual) 
-   - Attended "2020 IEEE International Conference on Image Processing (ICIP)", Abu Dhabi, UAE, 25-28 Oct 2020 (Virtual)
-   - Organized a training session on "Dimensionality Reduction Algorithms" during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
+   - Attended *The Workshop on Computer Vision and Image Processing (WCVIP)*, IIT Roorkee, Uttarakhand, 14-24 Dec 2020 (Virtual) 
+   - Attended *IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, UAE, 25-28 Oct 2020 (Virtual)
+   - Organized a training session on *Dimensionality Reduction Algorithms* during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
    
 ##   Contact
 Anshul Pundhir \
