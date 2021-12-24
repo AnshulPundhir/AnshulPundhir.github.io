@@ -74,7 +74,7 @@ _Dayalbagh Educational Institute, Agra_\
    - Deep Learning
 
 ## Experience
-   - Intern at IISc Banglore (April-*) 
+   - Intern at IISc Banglore (April-July) 
    - Communicated a paper in *Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)*, 2021
    - Attended *The Workshop on Computer Vision and Image Processing (WCVIP)*, IIT Roorkee, Uttarakhand, 14-24 Dec 2020 (Virtual) 
    - Attended *IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, UAE, 25-28 Oct 2020 (Virtual)
