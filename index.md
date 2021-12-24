@@ -75,11 +75,10 @@ _Dayalbagh Educational Institute, Agra_\
 
 ## Experience
    - Intern at IISc Banglore (April-July) 
-   - Communicated a paper in *Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)*, 2021
    - Attended *The Workshop on Computer Vision and Image Processing (WCVIP)*, IIT Roorkee, Uttarakhand, 14-24 Dec 2020 (Virtual) 
    - Attended *IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, UAE, 25-28 Oct 2020 (Virtual)
    - Organized a training session on *Dimensionality Reduction Algorithms* during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
-   - Anshul Pundhir,Deepak Verma, Puneet Kumar and Balasubramanian Raman. "Region extraction based approach for cigarette usage classification using deep learning." 6th IAPR Inetrnational Conference on Computer Vision and Image Processing (CVIP 2021).
+   - Anshul Pundhir, Deepak Verma, Puneet Kumar and Balasubramanian Raman. "Region extraction based approach for cigarette usage classification using deep learning." 6th IAPR Inetrnational Conference on Computer Vision and Image Processing (CVIP 2021).
    
 ##   Contact
 Anshul Pundhir \
