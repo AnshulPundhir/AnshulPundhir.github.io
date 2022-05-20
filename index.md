@@ -79,6 +79,7 @@ _Dayalbagh Educational Institute, Agra_\
    - Attended *IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, UAE, 25-28 Oct 2020 (Virtual)
    - Organized a training session on *Dimensionality Reduction Algorithms* during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
    - Anshul Pundhir, Deepak Verma, Puneet Kumar and Balasubramanian Raman. "Region extraction based approach for cigarette usage classification using deep learning." 6th IAPR Inetrnational Conference on Computer Vision and Image Processing (CVIP 2021).
+   - Anshul Pundhir, Saurabh Dadhich, Ananya Agarwal, and Balasubramanian Raman, Towards Improved Skin Lesion Classification using Metadata Supervision, Accepted for publication in 26th International Conference on Pattern Recognition (ICPR 2022), August 21-25, 2022, Montréal Québec, Canada.
    
 ##   Contact
 Anshul Pundhir \
