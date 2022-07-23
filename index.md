@@ -18,7 +18,7 @@ body {
   
   <a href="#experience" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Experience</pre></a>
   
-  <a href="#Publications" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Publications</pre></a>
+  <a href="#publications" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Publications</pre></a>
   
   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
   
@@ -82,9 +82,9 @@ _Dayalbagh Educational Institute, Agra_\
    - Organized a training session on *Dimensionality Reduction Algorithms* during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
    
 ## Publications
-    - Anshul Pundhir, Deepak Verma, Puneet Kumar and Balasubramanian Raman. "Region extraction based approach for cigarette usage classification using deep learning." 6th IAPR Inetrnational Conference on Computer Vision and Image Processing (CVIP 2021).
-    - Anshul Pundhir, Saurabh Dadhich, Ananya Agarwal, and Balasubramanian Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision", Accepted for publication in 26th International Conference on Pattern Recognition (ICPR 2022), August 21-25, 2022, Montréal Québec, Canada.
-    - Anshul Pundhir, Ananya Agarwal, Saurabh Dadhich, and Balasubramanian Raman, "Visually Aware Metadata-guided Supervision for Improved Skin Lesion Classification using Deep Learning", Accepted for publication in the 12th workshop on Multimodal Learning and Fusion Across Scales for Clinical Decision Support (ML-CDS) in conjunction with Medical Image Computing and Computer Assisted Intervention (MICCAI), September 18-22, 2022, Singapore.
+   - Anshul Pundhir, Deepak Verma, Puneet Kumar and Balasubramanian Raman. "Region extraction based approach for cigarette usage classification using deep learning." 6th IAPR Inetrnational Conference on Computer Vision and Image Processing (CVIP 2021).
+   - Anshul Pundhir, Saurabh Dadhich, Ananya Agarwal, and Balasubramanian Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision", Accepted for publication in 26th International Conference on Pattern Recognition (ICPR 2022), August 21-25, 2022, Montréal Québec, Canada.
+   - Anshul Pundhir, Ananya Agarwal, Saurabh Dadhich, and Balasubramanian Raman, "Visually Aware Metadata-guided Supervision for Improved Skin Lesion Classification using Deep Learning", Accepted for publication in the 12th workshop on Multimodal Learning and Fusion Across Scales for Clinical Decision Support (ML-CDS) in conjunction with Medical Image Computing and Computer Assisted Intervention (MICCAI), September 18-22, 2022, Singapore.
 
 
 ##   Contact
