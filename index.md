@@ -90,7 +90,7 @@ _Dayalbagh Educational Institute, Agra_\
 ##   Contact
 Anshul Pundhir \
 Department of Computer Science and Engineering\
-Machine Vision Lab\
+N-319, Machine Intelligence Lab\
 Indian Institute of Technology, Roorkee\
 e-mail: anshul_p [at] cs [dot] iitr [dot] ac [dot] in
 
