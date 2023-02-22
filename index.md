@@ -76,15 +76,16 @@ _Dayalbagh Educational Institute, Agra_\
    - Deep Learning
 
 ## Experience
-   - Intern at IISc Banglore (April-July) 
+   - Intern at Samsung R&D Institute Bangalore (SRI-B), India (August 2022 - February 2023)
+   - Intern at IISc Bangalore (April-July, 2021) 
    - Attended *The Workshop on Computer Vision and Image Processing (WCVIP)*, IIT Roorkee, Uttarakhand, 14-24 Dec 2020 (Virtual) 
    - Attended *IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, UAE, 25-28 Oct 2020 (Virtual)
    - Organized a training session on *Dimensionality Reduction Algorithms* during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
    
 ## Publications
-   - Anshul Pundhir, Deepak Verma, Puneet Kumar and Balasubramanian Raman. "Region extraction based approach for cigarette usage classification using deep learning." 6th IAPR Inetrnational Conference on Computer Vision and Image Processing (CVIP 2021).
-   - Anshul Pundhir, Saurabh Dadhich, Ananya Agarwal, and Balasubramanian Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision", Accepted for publication in 26th International Conference on Pattern Recognition (ICPR 2022), August 21-25, 2022, Montréal Québec, Canada.
-   - Anshul Pundhir, Ananya Agarwal, Saurabh Dadhich, and Balasubramanian Raman, "Visually Aware Metadata-guided Supervision for Improved Skin Lesion Classification using Deep Learning", Accepted for publication in the 12th workshop on Multimodal Learning and Fusion Across Scales for Clinical Decision Support (ML-CDS) in conjunction with Medical Image Computing and Computer Assisted Intervention (MICCAI), September 18-22, 2022, Singapore.
+   - Pundhir, A., Verma, D., Kumar, P., Raman, B. (2022). Region Extraction Based Approach for Cigarette Usage Classification Using Deep Learning. In: Raman, B., Murala, S., Chowdhury, A., Dhall, A., Goyal, P. (eds) Computer Vision and Image Processing. CVIP 2021. Communications in Computer and Information Science, vol 1568. Springer, Cham. https://doi.org/10.1007/978-3-031-11349-9_33.
+   - A. Pundhir, S. Dadhich, A. Agarwal and B. Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision," 2022 26th International Conference on Pattern Recognition (ICPR), Montreal, QC, Canada, 2022, pp. 4313-4320, doi: 10.1109/ICPR56361.2022.9956071..
+   - Pundhir, A., Agarwal, A., Dadhich, S., Raman, B. (2022). Visually Aware Metadata-Guided Supervision for Improved Skin Lesion Classification Using Deep Learning. In: , et al. Ethical and Philosophical Issues in Medical Imaging, Multimodal Learning and Fusion Across Scales for Clinical Decision Support, and Topological Data Analysis for Biomedical Imaging. EPIMI ML-CDS TDA4BiomedicalImaging 2022 2022 2022. Lecture Notes in Computer Science, vol 13755. Springer, Cham. https://doi.org/10.1007/978-3-031-23223-7_6.
 
 
 ##   Contact
