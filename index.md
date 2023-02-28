@@ -93,7 +93,7 @@ table, th, td {
 <table border="0" style="width:100%">
   <tr>
     <th style="width:40%"></th>
-    <thstyle="width:60%"></th>
+    <th style="width:60%"></th>
   </tr>
                      
     <tr>    
