@@ -90,7 +90,7 @@ table, th, td {
 }
 </style>
 
-<table border="0" style="width:100%>
+<table border="0" style="width:100%">
   <tr>
     <th></th>
     <th style="width:40%"></th>
