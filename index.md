@@ -85,7 +85,7 @@ _Dayalbagh Educational Institute, Agra_\
 ## Publications
 <style>
 table, th, td {
-  text-align: center
+  text-align: center;
   border:none;
   border-collapse: collapse;
 }
