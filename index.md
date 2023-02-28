@@ -89,13 +89,8 @@ _Dayalbagh Educational Institute, Agra_\
    - 
 <table border="0">
     <tr>
-        <th>S.No.</th>
-        <th> </th>
-        <th></th> 
-    </tr>
-    <tr>
         <td> 1 </td>
-         <td><img src="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/CVIP.PNG" height="100" width="100"></td>
+         <td><img src="https://raw.githubusercontent.com/AnshulPundhir/AnshulPundhir.github.io/gh-pages/CVIP.PNG" height="100" width="100"></td>
         <td>Pundhir, A., Verma, D., Kumar, P., Raman, B. (2022). Region Extraction Based Approach for Cigarette Usage Classification Using Deep Learning. In: Raman, B., Murala, S., Chowdhury, A., Dhall, A., Goyal, P. (eds) Computer Vision and Image Processing. CVIP 2021. Communications in Computer and Information Science, vol 1568. Springer, Cham. https://doi.org/10.1007/978-3-031-11349-9_33</td>
     </tr>
         <tr>
