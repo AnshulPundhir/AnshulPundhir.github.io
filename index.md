@@ -83,6 +83,13 @@ _Dayalbagh Educational Institute, Agra_\
    - Organized a training session on *Dimensionality Reduction Algorithms* during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
    
 ## Publications
+<style>
+table, th, td {
+  border:0px solid black;
+  border-collapse: collapse;
+}
+</style>
+
 <table border="0" style="width:100%>
   <tr>
     <th></th>
