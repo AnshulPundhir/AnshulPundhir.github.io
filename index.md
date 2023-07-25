@@ -94,7 +94,7 @@ _Dayalbagh Educational Institute, Agra_\
   .image {
     width: 15cm;
     height: 7cm;
-    padding-right: 10px; /* Adjust the spacing between image and text */
+    padding-right: 5px; /* Adjust the spacing between image and text */
   }
 
   .text {
@@ -103,7 +103,7 @@ _Dayalbagh Educational Institute, Agra_\
 
   /* Adjust image width and height */
   img {
-    width: 60%;
+    width: 100%;
     height: auto;
     object-fit: cover; /* Maintain the aspect ratio while covering the entire container */
   }
