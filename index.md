@@ -84,6 +84,46 @@ _Dayalbagh Educational Institute, Agra_\
    - Organized a training session on *Dimensionality Reduction Algorithms* during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
    
 ## Publications
+
+<style>
+  .container {
+    display: flex;
+    align-items: center; /* Vertically center the items */
+  }
+
+  .image {
+    width: 8cm;
+    height: 5cm;
+    padding-right: 45px; /* Adjust the spacing between image and text */
+  }
+
+  .text {
+    flex: 1; /* Occupy the remaining width */
+  }
+
+  /* Adjust image width and height */
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Maintain the aspect ratio while covering the entire container */
+  }
+</style>
+
+
+<div class="container">
+  <div class="image">
+    <img src="https://raw.githubusercontent.com/AnshulPundhir/AnshulPundhir.github.io/gh-pages/CVIP.PNG" alt="Image">
+  </div>
+  <div class="text">
+    <p>This is the text content that will be displayed next to the image.</p>
+  </div>
+</div>
+
+
+
+
+
+
 <style>
 table, th, td {
   text-align: left;
@@ -94,7 +134,7 @@ table, th, td {
 
 <table style="width:100%">                 
     <tr>    
-         <td style="width:25%"><img src="https://raw.githubusercontent.com/AnshulPundhir/AnshulPundhir.github.io/gh-pages/CVIP.PNG"></td>
+         <td style="width:25%"> <img src="https://raw.githubusercontent.com/AnshulPundhir/AnshulPundhir.github.io/gh-pages/CVIP.PNG"></td>
         <td style="width:75%">Pundhir, A., Verma, D., Kumar, P., Raman, B. (2022). Region Extraction Based Approach for Cigarette Usage Classification Using Deep Learning. In: Raman, B., Murala, S., Chowdhury, A., Dhall, A., Goyal, P. (eds) Computer Vision and Image Processing. CVIP 2021. Communications in Computer and Information Science, vol 1568. Springer. https://doi.org/10.1007/978-3-031-11349-9_33</td>
     </tr>
   
