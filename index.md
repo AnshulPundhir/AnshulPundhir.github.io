@@ -112,7 +112,7 @@ _Dayalbagh Educational Institute, Agra_\
 
 <div class="container">
   <div class="image">
-    <img src="https://raw.githubusercontent.com/AnshulPundhir/AnshulPundhir.github.io/gh-pages/CVIP.PNG" alt="Image">
+    <img src="./CVIP.PNG" alt="Image">
   </div>
   <div class="text">
     <p>This is the text content that will be displayed next to the image.</p>
