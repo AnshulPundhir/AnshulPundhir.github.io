@@ -76,6 +76,7 @@ _Dayalbagh Educational Institute, Agra_\
    - Deep Learning
 
 ## Experience
+   - Selected for Six-months Assistantship at Deloitte, India.
    - Intern at Samsung R&D Institute Bangalore (SRI-B), India (August 2022 - February 2023)
    - Intern at IISc Bangalore (April-July, 2021) 
    - Attended *The Workshop on Computer Vision and Image Processing (WCVIP)*, IIT Roorkee, Uttarakhand, 14-24 Dec 2020 (Virtual) 
