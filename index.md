@@ -92,8 +92,8 @@ _Dayalbagh Educational Institute, Agra_\
   }
 
   .image {
-    width: 8cm;
-    height: 5cm;
+    width: 15cm;
+    height: 7cm;
     padding-right: 45px; /* Adjust the spacing between image and text */
   }
 
