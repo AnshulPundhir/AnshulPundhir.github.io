@@ -27,9 +27,9 @@ body {
   
   
 </div>
-
+<div>
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="60" height="60" />
-
+</div>
 ## About
 
 I am a Ph.D. student in the Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined the Ph.D. in Dec, 2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
@@ -115,7 +115,7 @@ _Dayalbagh Educational Institute, Agra_\
     <img src="./CVIP.PNG" alt="Image">
   </div>
   <div class="text">
-    <p>**Anshul Pundhir**, Deepak Verma, Puneet Kumar, Balasubramanian Raman, "Region Extraction Based Approach for Cigarette Usage Classification Using Deep Learning", In: Raman, B., Murala, S., Chowdhury, A., Dhall, A., Goyal, P. (eds) Computer Vision and Image Processing. CVIP 2021. Communications in Computer and Information Science, vol 1568. Springer. https://doi.org/10.1007/978-3-031-11349-9_33.</p>
+    <p>Anshul Pundhir, Deepak Verma, Puneet Kumar, Balasubramanian Raman, "Region Extraction Based Approach for Cigarette Usage Classification Using Deep Learning", In: Raman, B., Murala, S., Chowdhury, A., Dhall, A., Goyal, P. (eds) Computer Vision and Image Processing. CVIP 2021. Communications in Computer and Information Science, vol 1568. Springer. https://doi.org/10.1007/978-3-031-11349-9_33.</p>
   </div>
 </div>
 
@@ -127,7 +127,7 @@ _Dayalbagh Educational Institute, Agra_\
     <img src="./ICPR.PNG" alt="Image">
   </div>
   <div class="text">
-    <p>**Anshul Pundhir**, Saurabh Dadhich, Ananya Agarwal, Balasubramanian Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision", 26th International Conference on Pattern Recognition (ICPR), Montreal, QC, Canada, 2022, pp. 4313-4320, doi: 10.1109/ICPR56361.2022.9956071</p>
+    <p>Anshul Pundhir, Saurabh Dadhich, Ananya Agarwal, Balasubramanian Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision", 26th International Conference on Pattern Recognition (ICPR), Montreal, QC, Canada, 2022, pp. 4313-4320, doi: 10.1109/ICPR56361.2022.9956071</p>
   </div>
 
 </div>
@@ -139,7 +139,7 @@ _Dayalbagh Educational Institute, Agra_\
     <img src="./MLCDS.PNG" alt="Image">
   </div>
   <div class="text">
-    <p>**Anshul Pundhir**, Ananya Agrawal, Saurabh Dadhich, Balasubramanian Raman, "Visually Aware Metadata-Guided Supervision for Improved Skin Lesion Classification Using Deep Learning", In: , et al. Ethical and Philosophical Issues in Medical Imaging, Multimodal Learning and Fusion Across Scales for Clinical Decision Support, and Topological Data Analysis for Biomedical Imaging. EPIMI ML-CDS TDA4BiomedicalImaging 2022. Lecture Notes in Computer Science, vol 13755. Springer. https://doi.org/10.1007/978-3-031-23223-7_6.</p>
+    <p>Anshul Pundhir, Ananya Agrawal, Saurabh Dadhich, Balasubramanian Raman, "Visually Aware Metadata-Guided Supervision for Improved Skin Lesion Classification Using Deep Learning", In: , et al. Ethical and Philosophical Issues in Medical Imaging, Multimodal Learning and Fusion Across Scales for Clinical Decision Support, and Topological Data Analysis for Biomedical Imaging. EPIMI ML-CDS TDA4BiomedicalImaging 2022. Lecture Notes in Computer Science, vol 13755. Springer. https://doi.org/10.1007/978-3-031-23223-7_6.</p>
   </div>
 </div>
 
@@ -148,7 +148,7 @@ _Dayalbagh Educational Institute, Agra_\
     <img src="./MTAP.PNG" alt="Image">
   </div>
   <div class="text">
-    <p>Kishore Babu Nampalle, **Anshul Pundhir**, Pushpamanjari Ramesh Jupudi, Balasubramanian Raman, "Towards improved U-Net for efficient skin lesion segmentation". Multimed Tools and Applications (MTAP), 2024, [https://doi.org/10.1007/s11042-024-18334-5](https://doi.org/10.1007/s11042-024-18334-5)</p>
+    <p>Kishore Babu Nampalle, Anshul Pundhir, Pushpamanjari Ramesh Jupudi, Balasubramanian Raman, "Towards improved U-Net for efficient skin lesion segmentation". Multimed Tools and Applications (MTAP), 2024, [https://doi.org/10.1007/s11042-024-18334-5](https://doi.org/10.1007/s11042-024-18334-5)</p>
 
   </div>
 </div>
