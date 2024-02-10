@@ -148,7 +148,8 @@ _Dayalbagh Educational Institute, Agra_\
     <img src="./MTAP.PNG" alt="Image">
   </div>
   <div class="text">
-    <p>Kishore Babu Nampalle, **Anshul Pundhir**, Pushpamanjari Ramesh Jupudi, Balasubramanian Raman, "Towards improved U-Net for efficient skin lesion segmentation". Multimed Tools and Applications (MTAP), 2024, https://doi.org/10.1007/s11042-024-18334-5</p>
+    <p>Kishore Babu Nampalle, **Anshul Pundhir**, Pushpamanjari Ramesh Jupudi, Balasubramanian Raman, "Towards improved U-Net for efficient skin lesion segmentation". Multimed Tools and Applications (MTAP), 2024, [https://doi.org/10.1007/s11042-024-18334-5](https://doi.org/10.1007/s11042-024-18334-5)</p>
+
   </div>
 </div>
 
