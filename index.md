@@ -47,7 +47,7 @@ body {
 
 <div class="container">
   <div class="image">
-    <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" alt="Image">
+    <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="40" height="60" alt="Image">
   </div>
 </div>
 
