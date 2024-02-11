@@ -8,6 +8,9 @@ body {
 }
  
 </style>
+
+<img src="./21Anshul.jpg" width=50 height=50 alt="Image"> 
+
 <div>
   
   <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Contact</pre></a>
@@ -28,7 +31,7 @@ body {
 </div>
 
 
-  <img src="./21Anshul.jpg" width=50 height=50 alt="Image"> 
+  
  
 
  
