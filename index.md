@@ -6,6 +6,11 @@ body {
   background-size: cover;
   color: #000000;
 }
+  .profile-image {
+            float: left; /* Float the image to the left */
+            margin-right: 10px; /* Add some margin to the right of the image */
+        }
+  
 </style>
 <div>
   
@@ -24,13 +29,12 @@ body {
   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
   
   <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/cv.pdf" target="cv.pdf" style="float:right"><pre>CV</pre></a>
-  
-  
-  
 </div>
+
 <div>
 <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="60" height="60" />
 </div>
+
 ## About
 
 I am a Ph.D. student in the Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined the Ph.D. in Dec, 2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
