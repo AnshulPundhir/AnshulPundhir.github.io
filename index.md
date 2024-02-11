@@ -30,8 +30,35 @@ body {
   
   <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/cv.pdf" target="cv.pdf" style="float:right"><pre>CV</pre></a>
 </div>
+<style>
+  .container {
+    display: flex;
+    align-items: center; /* Vertically center the items */
+  }
 
- <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="30" height="30" /> 
+  .image {
+    flex: 3; /* Occupy 30% of the container width */
+    max-width: 30%;
+    padding-right: 10px; /* Adjusted spacing between image and text */
+  }
+
+  .text {
+    flex: 7; /* Occupy 70% of the container width */
+  }
+
+  /* Adjust image width and height */
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* Maintain the aspect ratio while covering the entire container */
+  }
+</style>
+<div class="container">
+  <div class="image">
+    <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" alt="Image">
+  </div>
+</div>
+
 
 ## About
 
