@@ -1,10 +1,10 @@
 <style>
-body {
+/* body {
   background-image: url('https://image.freepik.com/free-vector/abstract-paper-hexagon-white-background_51543-213.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-}
+} */
 </style>
 <div>
   
