@@ -32,7 +32,7 @@ body {
 </div>
 
 <div>
-<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="60" height="60" />
+<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="30" height="30" />
 </div>
 
 ## About
