@@ -27,9 +27,11 @@ body {
   <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/cv.pdf" target="cv.pdf" style="float:right"><pre>CV</pre></a>
 </div>
 
-
-
+<div class="container">
   <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" alt="Image">
+</div>
+
+ 
 
 
 
