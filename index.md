@@ -28,7 +28,7 @@ body {
 </div>
 
 
-  <img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width=50 height=50 style="display: block; margin: auto" /> 
+  <img src="./21Anshul.jpg" width=50 height=50 alt="Image"> 
  
 
  
