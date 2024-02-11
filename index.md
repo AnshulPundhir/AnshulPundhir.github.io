@@ -7,9 +7,7 @@ body {
   color: #000000;
 }
  
-</style>
-
-<img src="./21Anshul.jpg" width=50 height=50 alt="Image"> 
+</style> 
 
 <div>
   
