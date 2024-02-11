@@ -6,11 +6,7 @@ body {
   background-size: cover;
   color: #000000;
 }
-  .profile-image {
-            float: left; /* Float the image to the left */
-            margin-right: 10px; /* Add some margin to the right of the image */
-        }
-  
+ 
 </style>
 <div>
   
