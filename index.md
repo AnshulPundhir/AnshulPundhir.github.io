@@ -160,6 +160,17 @@ _Dayalbagh Educational Institute, Agra_\
   </div>
 </div>
 
+<div class="container">
+  <div class="image">
+    <img src="./MTAP.PNG" alt="Image">
+  </div>
+  <div class="text">
+    <p>Anshul Pundhir, Shivam Sagar, Pradeep Singh, and Balasubramanian Raman, "Echoes of Images: Multi-loss Network for Image Retrieval in Vision Transformers", Accepted for publication in the Journal of Medical & Biological Engineering & Computing.</p>
+  </div>
+</div>
+
+
+
 
 ##   Contact
 Anshul Pundhir \
