@@ -23,12 +23,12 @@ body {
   
   <a href="#publications" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Publications</pre></a>
   
-  <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
+ 
   
   <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/cv.pdf" target="cv.pdf" style="float:right"><pre>CV</pre></a>
 </div>
 
-
+ <!-- <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a> -->
   
  
 
@@ -162,7 +162,7 @@ _Dayalbagh Educational Institute, Agra_\
 
 <div class="container">
   <div class="image">
-    <img src="./MBEC.JPG" alt="Image">
+    <img src="./MBEC.png" alt="Image">
   </div>
   <div class="text">
     <p>Anshul Pundhir, Shivam Sagar, Pradeep Singh, and Balasubramanian Raman, "Echoes of Images: Multi-loss Network for Image Retrieval in Vision Transformers", Accepted for publication in the Journal of Medical & Biological Engineering & Computing.</p>
