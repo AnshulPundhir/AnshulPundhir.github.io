@@ -23,8 +23,6 @@ body {
   
   <a href="#publications" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Publications</pre></a>
   
- 
-  
   <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/cv.pdf" target="cv.pdf" style="float:right"><pre>CV</pre></a>
 </div>
 
@@ -37,7 +35,7 @@ body {
 
 
 
-## About
+## {About}
 
 I am a Ph.D. student in the Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined the Ph.D. in Dec, 2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
 
