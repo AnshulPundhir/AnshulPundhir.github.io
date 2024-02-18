@@ -10,6 +10,7 @@ body {
 </style> 
 
 <div>
+   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a> 
   
   <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Contact</pre></a>
   
@@ -26,7 +27,7 @@ body {
   <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/cv.pdf" target="cv.pdf" style="float:right"><pre>CV</pre></a>
 </div>
 
- <!-- <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a> -->
+
   
  
 
@@ -35,7 +36,7 @@ body {
 
 
 
-## {About}
+## About
 
 I am a Ph.D. student in the Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined the Ph.D. in Dec, 2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
 
