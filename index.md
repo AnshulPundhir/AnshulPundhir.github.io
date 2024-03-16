@@ -10,7 +10,7 @@ body {
 </style> 
 
 <div>
-   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a> 
+<!--    <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>  -->
   
   <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Contact</pre></a>
   
@@ -168,8 +168,23 @@ _Dayalbagh Educational Institute, Agra_\
   </div>
 </div>
 
+<div class="container">
+  <div class="image">
+    <img src="./IJCNN-1.png" alt="Image">
+  </div>
+  <div class="text">
+    <p>Anshul Pundhir*, Srishti Yadav*, Balasubramanian Raman, Sanjeev Kumar, "Synapse Driven Robust Spiking Convolution Network Against Data Poisoning Attacks", Accepted for publication in International Joint Conference on Neural Networks (IJCNN), 30 June - 5 July 2024, Yokohama, Japan. (*denotes equal contribution)</p>
+  </div>
+</div>
 
-
+<div class="container">
+  <div class="image">
+    <img src="./IJCNN-2.png" alt="Image">
+  </div>
+  <div class="text">
+    <p>Anshul Pundhir, Sanchit Verma, Balasubramanian Raman, "Classify Skin Conditions Fairly through Bias Mitigation", Accepted for publication in International Joint Conference on Neural Networks (IJCNN), 30 June - 5 July 2024, Yokohama, Japan.</p>
+  </div>
+</div>
 
 ##   Contact
 Anshul Pundhir \
