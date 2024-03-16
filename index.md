@@ -173,7 +173,7 @@ _Dayalbagh Educational Institute, Agra_\
     <img src="./IJCNN-1.png" alt="Image">
   </div>
   <div class="text">
-    <p>Anshul Pundhir*, Srishti Yadav*, Balasubramanian Raman, Sanjeev Kumar, "Synapse Driven Robust Spiking Convolution Network Against Data Poisoning Attacks", Accepted for publication in International Joint Conference on Neural Networks (IJCNN), 30 June - 5 July 2024, Yokohama, Japan. (*denotes equal contribution)</p>
+    <p>Anshul Pundhir*, Srishti Yadav*, Balasubramanian Raman, Sanjeev Kumar, "Synapse Driven Robust Spiking Convolution Network Against Data Poisoning Attacks", Accepted for publication in International Joint Conference on Neural Networks (IJCNN), 30 June - 5 July 2024, Yokohama, Japan. (*denotes equal contribution).</p>
   </div>
 </div>
 
