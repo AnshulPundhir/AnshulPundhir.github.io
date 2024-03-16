@@ -156,7 +156,7 @@ _Dayalbagh Educational Institute, Agra_\
     <img src="./MBEC.png" alt="Image">
   </div>
   <div class="text">
-    <p>Anshul Pundhir, Shivam Sagar, Pradeep Singh, and Balasubramanian Raman, "Echoes of Images: Multi-loss Network for Image Retrieval in Vision Transformers", Medical & Biological Engineering & Computing.</p>
+    <p>Anshul Pundhir, Shivam Sagar, Pradeep Singh, and Balasubramanian Raman, "Echoes of Images: Multi-loss Network for Image Retrieval in Vision Transformers", Medical & Biological Engineering & Computing (MBEC), 2024, https://doi.org/10.1007/s11517-024-03055-6</p>
   </div>
 </div>
 
