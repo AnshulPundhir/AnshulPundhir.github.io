@@ -174,7 +174,7 @@ _Dayalbagh Educational Institute, Agra_\
     <img src="./IJCNN-2.png" alt="Image">
   </div>
   <div class="text">
-    <p>Anshul Pundhir, Sanchit Verma, Balasubramanian Raman, "Classify Skin Conditions Fairly through Bias Mitigation", Accepted for publication in International Joint Conference on Neural Networks (IJCNN), 30 June - 5 July 2024, Yokohama, Japan.</p>
+    <p>Anshul Pundhir, Sanchit Verma, Balasubramanian Raman, "Towards Ethical Dermatology: Mitigating Bias in Skin Condition Classification", Accepted for publication in International Joint Conference on Neural Networks (IJCNN), 30 June - 5 July 2024, Yokohama, Japan.</p>
   </div>
 </div>
 
