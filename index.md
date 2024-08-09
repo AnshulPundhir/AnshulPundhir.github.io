@@ -24,7 +24,7 @@ body {
   
   <a href="#publications" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Publications</pre></a>
   
-  <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/cv.pdf" target="cv.pdf" style="float:right"><pre>CV</pre></a>
+  <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/CV_Anshul_IITR.pdf" target="cv.pdf" style="float:right"><pre>CV</pre></a>
 </div>
 <br>
 <br>
