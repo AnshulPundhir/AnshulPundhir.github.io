@@ -178,6 +178,16 @@ _Dayalbagh Educational Institute, Agra_\
   </div>
 </div>
 
+<div class="container">
+  <div class="image">
+    <img src="./ICPR 2024.png" alt="Image">
+  </div>
+  <div class="text">
+    <p>Srishti Yadav, Anshul Pundhir, Tanish Goyal, Balasubramanian Raman, Sanjeev Kumar, "Differentially Private Spiking Variational Autoencode", Accepted for publication in International Conference on Pattern Recognition   (ICPR), 1- 5 December 2024, Kolkata, India.</p>
+  </div>
+</div>
+
+
 ##   Contact
 Anshul Pundhir \
 Department of Computer Science and Engineering\
